@@ -68,11 +68,11 @@
 
 ![Correlation Matrix](https://github.com/AkashSDas/Customer-Churn/blob/master/project-results-images/corr.png)
 
-#### Cross Validation Score of Imbalanced Data
+#### `Cross Validation Score of Imbalanced Data`
 
 ![Cross Validation Score of Imbalanced Data](https://github.com/AkashSDas/Customer-Churn/blob/master/project-results-images/cross-val-score-before-smote.png)
 
-#### Cross Validation Score of Balanced Data
+#### `Cross Validation Score of Balanced Data`
 
 ![Cross Validation Score of Balanced Data](https://github.com/AkashSDas/Customer-Churn/blob/master/project-results-images/cross-val-score-after-smote.png)
 
