@@ -70,23 +70,23 @@
 
 #### Cross Validation Score of Imbalanced Data
 
-![Cross Validation Score of Imbalanced Data](https://github.com/AkashSDas/Customer-Churn/blob/master/project-results-images/cross-val-score-before-smote .png)
+![Cross Validation Score of Imbalanced Data](https://github.com/AkashSDas/Customer-Churn/blob/master/project-results-images/cross-val-score-before-smote.png)
 
 #### Cross Validation Score of Balanced Data
 
-![Cross Validation Score of Balanced Data](https://github.com/AkashSDas/Customer-Churn/blob/master/project-results-images/cross-val-score-after-smote .png)
+![Cross Validation Score of Balanced Data](https://github.com/AkashSDas/Customer-Churn/blob/master/project-results-images/cross-val-score-after-smote.png)
 
 #### Learning Curve
 
-![Learning Curve](https://github.com/AkashSDas/Customer-Churn/blob/master/project-results-images/learning-curve .png)
+![Learning Curve](https://github.com/AkashSDas/Customer-Churn/blob/master/project-results-images/learning-curve.png)
 
 #### Confusion Matrix
 
 ```python
-                precision    recall  f1-score   support
+                 precision    recall  f1-score   support
 
-	      0.0       0.80      0.80      0.80        45
-		   1.0       0.40      0.40      0.40        15
+	0.0        0.80      0.80      0.80        45
+	1.0        0.40      0.40      0.40        15
 
     accuracy                           0.70        60
    macro avg       0.60      0.60      0.60        60
